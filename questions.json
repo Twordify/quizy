@@ -1,0 +1,1249 @@
+[
+  {
+    "question": "W modelu organizacji Mintzberga wyróżnia się:",
+    "options": [
+      "jednostki pomocnicze",
+      "jednostki podstawowe",
+      "technostrukturę"
+    ],
+    "correct_answer": [
+      "jednostki pomocnicze",
+      "technostrukturę"
+    ]
+  },
+  {
+    "question": "Cechy organizacji społecznej opisywanej jako system:",
+    "options": [
+      "są systemami zamkniętymi",
+      "cechują się ekwifnalnością",
+      "występuje w nich człon wykonawczy nazywany systemem sterującym"
+    ],
+    "correct_answer": [
+      "cechują się ekwifnalnością"
+    ]
+  },
+  {
+    "question": "Zalety outsourcingu:",
+    "options": [
+      "koncentracja na kluczowych kompetencjach",
+      "reedukacja kosztów",
+      "rozmycie odpowiedzialności"
+    ],
+    "correct_answer": [
+      "koncentracja na kluczowych kompetencjach",
+      "reedukacja kosztów"
+    ]
+  },
+  {
+    "question": "Przedsiębiorstwo małe - cechy:",
+    "options": [
+      "zatrudnienie do 10 pracowników",
+      "obroty do 10 mln euro",
+      "suma bilansowa do 40 mln euro"
+    ],
+    "correct_answer": [
+      "obroty do 10 mln euro"
+    ]
+  },
+  {
+    "question": "Procesy pomocnicze:",
+    "options": [
+      "są źródłem działań bezużytecznych",
+      "mogą podlegać outsourcingowi",
+      "mają strategiczne znaczenie dla przedsiębiorstwa"
+    ],
+    "correct_answer": [
+      "mogą podlegać outsourcingowi"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "odpowiedzialność filantropijna",
+      "odpowiedzialność cywilna",
+      "odpowiedzialność ekonomiczna"
+    ],
+    "correct_answer": [
+      "odpowiedzialność filantropijna",
+      "odpowiedzialność ekonomiczna"
+    ]
+  },
+  {
+    "question": "Cechy organizacji organicznych:",
+    "options": [
+      "autorytet stanowiska",
+      "efektywne w otoczeniu zmiennym",
+      "sieciowa struktura komunikacji"
+    ],
+    "correct_answer": [
+      "efektywne w otoczeniu zmiennym"
+    ]
+  },
+  {
+    "question": "Formy przedsiębiorstwa wirtualnego:",
+    "options": [
+      "konsorcja",
+      "alianse strategiczne",
+      "struktury tensorowe"
+    ],
+    "correct_answer": [
+      "konsorcja",
+      "alianse strategiczne"
+    ]
+  },
+  {
+    "question": "Spółka z ograniczoną odpowiedzialnością:",
+    "options": [
+      "brak określonych wymagań odnośnie sumy komandytowej",
+      "wartość kapitału nie może być niższa niż 5 tys.",
+      "jest spółką osobową"
+    ],
+    "correct_answer": [
+      "wartość kapitału nie może być niższa niż 5 tys."
+    ]
+  },
+  {
+    "question": "Wady organizacji sieciowej:",
+    "options": [
+      "trudności z koordynacją",
+      "dążenie do dominacji w sieci jednostek silniejszych",
+      "niebezpieczeństwo wzrostu kosztów transakcyjnych"
+    ],
+    "correct_answer": [
+      "trudności z koordynacją",
+      "dążenie do dominacji w sieci jednostek silniejszych",
+      "niebezpieczeństwo wzrostu kosztów transakcyjnych"
+    ]
+  },
+  {
+    "question": "Rodzaje aliansów strategicznych:",
+    "options": [
+      "alianse komparatywne",
+      "alianse integracyjne",
+      "alianse addytywne"
+    ],
+    "correct_answer": [
+      "alianse integracyjne",
+      "alianse addytywne"
+    ]
+  },
+  {
+    "question": "Interesariusze wewnętrzni to:",
+    "options": [
+      "pracownicy",
+      "klienci",
+      "akcjonariusze"
+    ],
+    "correct_answer": [
+      "pracownicy"
+    ]
+  },
+  {
+    "question": "Fazy rozwoju przedsiębiorstwa wg. Greinera:",
+    "options": [
+      "wzrost przez kreatywność",
+      "kryzys delegowania uprawnień",
+      "wzrost przez koordynację"
+    ],
+    "correct_answer": [
+      "wzrost przez kreatywność",
+      "kryzys delegowania uprawnień",
+      "wzrost przez koordynację"
+    ]
+  },
+  {
+    "question": "Zewnętrzne formy CSR:",
+    "options": [
+      "pomoc pracownikom w spłacaniu wierzycieli",
+      "redukcja zanieczyszczeń",
+      "standardy reklam"
+    ],
+    "correct_answer": [
+      "redukcja zanieczyszczeń"
+    ]
+  },
+  {
+    "question": "Fazy rozwoju przedsiębiorstwa wg Greinera:",
+    "options": [
+      "kryzys autonomii",
+      "kryzys współdziałania",
+      "kryzys przez formalizację"
+    ],
+    "correct_answer": [
+      "kryzys autonomii"
+    ]
+  },
+  {
+    "question": "Spółka komandytowa:",
+    "options": [
+      "jest spółką kapitałową",
+      "działa tylko w zakresie wykonywania",
+      "za zobowiązania spółki bez ograniczeń odpowiada komandytariusz"
+    ],
+    "correct_answer": [
+      "działa tylko w zakresie wykonywania"
+    ]
+  },
+  {
+    "question": "Efekt organizacyjny to:",
+    "options": [
+      "szczególny przypadek efektu synergicznego",
+      "jest następstwem współdziałania elementów",
+      "można go wyrazić wzorem 1+1=2"
+    ],
+    "correct_answer": [
+      "szczególny przypadek efektu synergicznego",
+      "jest następstwem współdziałania elementów"
+    ]
+  },
+  {
+    "question": "W outsourcingu kontraktowym część działalności przekazywana jest:",
+    "options": [
+      "innemu podmiotowi wewnętrznemu (spółce-córce)",
+      "innemu podmiotowi zewnętrznemu",
+      "firmie outsourcingowej"
+    ],
+    "correct_answer": [
+      "innemu podmiotowi zewnętrznemu",
+      "firmie outsourcingowej"
+    ]
+  },
+  {
+    "question": "Wewnętrzne formy CSR:",
+    "options": [
+      "odprawy dla przychodzących",
+      "sponsorowanie lokalnych przedsięwzięć",
+      "zwiększenie satysfakcji pracowników"
+    ],
+    "correct_answer": [
+      "zwiększenie satysfakcji pracowników"
+    ]
+  },
+  {
+    "question": "Interesariusze zewnętrzni to:",
+    "options": [
+      "dostawcy",
+      "media",
+      "rada nadzorcza"
+    ],
+    "correct_answer": [
+      "dostawcy",
+      "media"
+    ]
+  },
+  {
+    "question": "Cechy organizacji mechanistycznej:",
+    "options": [
+      "pionowe interakcje",
+      "wysoki stopień formalizacji",
+      "efektywne w otoczeniu stabilnym"
+    ],
+    "correct_answer": [
+      "pionowe interakcje",
+      "wysoki stopień formalizacji",
+      "efektywne w otoczeniu stabilnym"
+    ]
+  },
+  {
+    "question": "Zalety organizacji sieciowej:",
+    "options": [
+      "dualizm kierowania",
+      "zwiększenie dostępności do zasobów",
+      "duża stabilność"
+    ],
+    "correct_answer": [
+      "zwiększenie dostępności do zasobów"
+    ]
+  },
+  {
+    "question": "Procesy podstawowe:",
+    "options": [
+      "są źródłem przewagi konkurencyjnej",
+      "powinny podlegać outsourcingowi",
+      "są obojętne z punktu widzenia klienta"
+    ],
+    "correct_answer": [
+      "są źródłem przewagi konkurencyjnej"
+    ]
+  },
+  {
+    "question": "Cechy organizacji wirtualnej:",
+    "options": [
+      "technologia komputerowa i telekomunikacyjna",
+      "wzajemne zaufanie",
+      "granice wertykalne"
+    ],
+    "correct_answer": [
+      "technologia komputerowa i telekomunikacyjna",
+      "wzajemne zaufanie"
+    ]
+  },
+  {
+    "question": "Przedsiębiorstwo duże - cechy",
+    "options": [
+      "zatrudnia powyżej 240 pracowników",
+      "obroty powyżej 10 mln euro",
+      "suma bilansów powyżej 43 mln euro"
+    ],
+    "correct_answer": [
+      "suma bilansów powyżej 43 mln euro"
+    ]
+  },
+  {
+    "question": "Model 7S Petersa i Watermana obejmuje:",
+    "options": [
+      "jednostki pomocnicze",
+      "struktura",
+      "style"
+    ],
+    "correct_answer": [
+      "struktura",
+      "style"
+    ]
+  },
+  {
+    "question": "Rodzaje aliansów strategicznych:",
+    "options": [
+      "alianse addytywne",
+      "alianse holdingowe",
+      "alianse komplementarne"
+    ],
+    "correct_answer": [
+      "alianse addytywne",
+      "alianse komplementarne"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "odpowiedzialność filantropijna",
+      "odpowiedzialność etyczna",
+      "odpowiedzialność prawna"
+    ],
+    "correct_answer": [
+      "odpowiedzialność filantropijna",
+      "odpowiedzialność etyczna",
+      "odpowiedzialność prawna"
+    ]
+  },
+  {
+    "question": "Rodzaje organizacji sieciowych:",
+    "options": [
+      "stosunków bezpośrednich",
+      "sfederowane",
+      "strategiczne"
+    ],
+    "correct_answer": [
+      "stosunków bezpośrednich",
+      "sfederowane"
+    ]
+  },
+  {
+    "question": "Dyscypliny wspomagające organizacyjne uczenie się – P. Senge",
+    "options": [
+      "Modele osobiste",
+      "Zespołowe uczenie się",
+      "Występuje w nich człon wykonawczy nazywany systemem sterującym"
+    ],
+    "correct_answer": [
+      "Zespołowe uczenie się"
+    ]
+  },
+  {
+    "question": "Zalety outsourcingu:",
+    "options": [
+      "Koncentracja na kluczowych kompetencjach",
+      "Redukcja kosztów",
+      "Rozmycie odpowiedzialności"
+    ],
+    "correct_answer": [
+      "Koncentracja na kluczowych kompetencjach",
+      "Redukcja kosztów"
+    ]
+  },
+  {
+    "question": "Kapitał intelektualny obejmuje",
+    "options": [
+      "Kapitał strukturalny",
+      "Kapitał relacyjny",
+      "Kapitał finansowy"
+    ],
+    "correct_answer": [
+      "Kapitał strukturalny",
+      "Kapitał relacyjny"
+    ]
+  },
+  {
+    "question": "Cechy organizacji organicznych:",
+    "options": [
+      "Autorytet stanowiska",
+      "Efektywne w otoczeniu zmienny",
+      "Sieciowa struktura komunikacji"
+    ],
+    "correct_answer": [
+      "Efektywne w otoczeniu zmienny",
+      "Sieciowa struktura komunikacji"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności Carrolla:",
+    "options": [
+      "Odpowiedzialność filantropijna",
+      "Odpowiedzialność cywilna",
+      "Odpowiedzialność ekonomiczna"
+    ],
+    "correct_answer": [
+      "Odpowiedzialność filantropijna",
+      "Odpowiedzialność ekonomiczna"
+    ]
+  },
+  {
+    "question": "Elementy zarządzania wiedzą",
+    "options": [
+      "Zachowanie wiedzy",
+      "Posługiwanie się wiedzą",
+      "Dzielenie się wiedzą"
+    ],
+    "correct_answer": [
+      "Zachowanie wiedzy",
+      "Posługiwanie się wiedzą",
+      "Dzielenie się wiedzą"
+    ]
+  },
+  {
+    "question": "Organizacja o strukturze koniczyny- echo pracowników kontraktowych:",
+    "options": [
+      "Silne więzi w z organizacją",
+      "Wynagrodzenie w formie honorarium",
+      "Kluczowe znaczenie dla organizacji"
+    ],
+    "correct_answer": [
+      "Wynagrodzenie w formie honorarium"
+    ]
+  },
+  {
+    "question": "Wady organizacji sieciowej:",
+    "options": [
+      "trudności z koordynacją",
+      "dążenie do dominacji w sieci jednostek silniejszych",
+      "niebezpieczeństwo wzrostu kosztów sieci"
+    ],
+    "correct_answer": [
+      "trudności z koordynacją",
+      "dążenie do dominacji w sieci jednostek silniejszych",
+      "niebezpieczeństwo wzrostu kosztów sieci"
+    ]
+  },
+  {
+    "question": "Organizacja w ujęciu sytuacyjnym obejmuje",
+    "options": [
+      "Subsystem strategiczny",
+      "Subsystem celów i wartości",
+      "Subsytem koordynacyjny"
+    ],
+    "correct_answer": [
+      "Subsystem strategiczny",
+      "Subsytem koordynacyjny"
+    ]
+  },
+  {
+    "question": "Interesariusze wewnętrzni to :",
+    "options": [
+      "Pracownicy",
+      "Klienci",
+      "Akcjonariusze"
+    ],
+    "correct_answer": [
+      "Pracownicy",
+      "Akcjonariusze"
+    ]
+  },
+  {
+    "question": "Zewnętrzne formy CSR:",
+    "options": [
+      "Pomoc prawnikom w spłacaniu wierzytelności",
+      "Redukcja zanieczyszczeń",
+      "Standardy reklamy"
+    ],
+    "correct_answer": [
+      "Redukcja zanieczyszczeń"
+    ]
+  },
+  {
+    "question": "Kapitał intelektualny obejmuje",
+    "options": [
+      "Kapitał korporacyjny",
+      "Kapitał ludzki",
+      "Kapitał relacyjny"
+    ],
+    "correct_answer": [
+      "Kapitał ludzki",
+      "Kapitał relacyjny"
+    ]
+  },
+  {
+    "question": "Organizacja o strukturze koniczyny- cechy elastycznej siły roboczej",
+    "options": [
+      "Wysokie wynagrodzenie",
+      "Silne więzi z organizacją",
+      "Forma zatrudnienia – np. umowa zlecenie"
+    ],
+    "correct_answer": [
+      "Forma zatrudnienia – np. umowa zlecenie"
+    ]
+  },
+  {
+    "question": "Cechy organizacji mechanistycznej",
+    "options": [
+      "Pionowe interakcje",
+      "Wysoki stopień formalizacji",
+      "Efektywne e otoczeniu stabilnym"
+    ],
+    "correct_answer": [
+      "Pionowe interakcje",
+      "Wysoki stopień formalizacji",
+      "Efektywne e otoczeniu stabilnym"
+    ]
+  },
+  {
+    "question": "W outsourcingu kapitałowym część działalności przekazywana jest:",
+    "options": [
+      "Innemu podmiotowi wewnętrznemu (spółce- córce?)",
+      "Innemu podmiotowi zewnętrznemu",
+      "Innemu podmiotowi niezależnemu"
+    ],
+    "correct_answer": [
+      "Innemu podmiotowi wewnętrznemu (spółce- córce?)"
+    ]
+  },
+  {
+    "question": "Wewnętrzne formy CSR:",
+    "options": [
+      "Odprawy dla przychodzących",
+      "Sponsorowanie lokalnych przedsięwzięć",
+      "Zwiększanie satysfakcji pracowników"
+    ],
+    "correct_answer": [
+      "Zwiększanie satysfakcji pracowników"
+    ]
+  },
+  {
+    "question": "Interesariusze zewnętrzni to:",
+    "options": [
+      "Dostawcy",
+      "Media",
+      "Rada nadzorcza"
+    ],
+    "correct_answer": [
+      "Dostawcy",
+      "Media"
+    ]
+  },
+  {
+    "question": "Zaleta organizacji sieciowej",
+    "options": [
+      "Dualizm kierowania ??",
+      "Zwiększanie dostępności zasobów",
+      "Poczucie stabilizacji"
+    ],
+    "correct_answer": [
+      "Zwiększanie dostępności zasobów"
+    ]
+  },
+  {
+    "question": "Formy powiązań w organizacji sieciowej",
+    "options": [
+      "Służbowe",
+      "Informatyczne",
+      "Ekonomiczne"
+    ],
+    "correct_answer": [
+      "Służbowe"
+    ]
+  },
+  {
+    "question": "Elementy zarządzania wiedzą:",
+    "options": [
+      "Lokalizowanie wiedzy",
+      "Kumulowanie wiedzy",
+      "Zachowywanie wiedzy"
+    ],
+    "correct_answer": [
+      "Lokalizowanie wiedzy",
+      "Zachowywanie wiedzy"
+    ]
+  },
+  {
+    "question": "Założenia koncepcji sytuacyjnej",
+    "options": [
+      "Technokratyzm",
+      "Neoliberalizm",
+      "Relatywizm"
+    ],
+    "correct_answer": [
+      "Relatywizm"
+    ]
+  },
+  {
+    "question": "Dyscypliny wspomagające organizacyjne uczenie się – P. Senge:",
+    "options": [
+      "Myślenie systemowe",
+      "Mistrzostwo myślowe",
+      "Wspólna wizja przyszłości"
+    ],
+    "correct_answer": [
+      "Myślenie systemowe",
+      "Wspólna wizja przyszłości"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "Odpowiedzialność prawna",
+      "Odpowiedzialność etyczna",
+      "Odpowiedzialność filantropijna"
+    ],
+    "correct_answer": [
+      "Odpowiedzialność prawna",
+      "Odpowiedzialność etyczna",
+      "Odpowiedzialność filantropijna"
+    ]
+  },
+  {
+    "question": "W modelu organizacji Mintzberga wyróżnia się",
+    "options": [
+      "style",
+      "wartości",
+      "technostrukturę"
+    ],
+    "correct_answer": [
+      "technostrukturę"
+    ]
+  },
+  {
+    "question": "Cechy organizacji społecznych opisywanych jako system:",
+    "options": [
+      "są systemami ustrukturyzowanymi",
+      "cechują się ekwifinalnością",
+      "są systemami zamkniętymi"
+    ],
+    "correct_answer": [
+      "cechują się ekwifinalnością"
+    ]
+  },
+  {
+    "question": "Analiza 5 sił Portera obejmuje",
+    "options": [
+      "analizę siły przetargowej odbiorców",
+      "analizę grup strategicznych",
+      "analizę rywalizacji między przedsiębiorstwami sektora"
+    ],
+    "correct_answer": [
+      "analizę siły przetargowej odbiorców",
+      "analizę rywalizacji między przedsiębiorstwami sektora"
+    ]
+  },
+  {
+    "question": "Granicę pomiędzy pionami organizacyjnymi",
+    "options": [
+      "są podstawą wyróżnienia szczebli hierarchicznych",
+      "określają granicę aktywności w łańcuchu tworzenia wartości",
+      "rozgraniczają funkcje i obszary działań"
+    ],
+    "correct_answer": [
+      "rozgraniczają funkcje i obszary działań"
+    ]
+  },
+  {
+    "question": "Procesy pomocnicze",
+    "options": [
+      "są źródłem działań bezużytecznych",
+      "mogą podlegać outsourcingowi",
+      "nie mają strategicznego znaczenia dla przedsiębiorstwa"
+    ],
+    "correct_answer": [
+      "mogą podlegać outsourcingowi"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "odpowiedzialność handlowa",
+      "odpowiedzialność cywilna",
+      "odpowiedzialność ekonomiczna"
+    ],
+    "correct_answer": [
+      "odpowiedzialność ekonomiczna"
+    ]
+  },
+  {
+    "question": "Cechy organizacji organicznych:",
+    "options": [
+      "wysoka specjalizacja",
+      "efektywne w otoczeniu zmiennym",
+      "prestiż wynika z kompetencji"
+    ],
+    "correct_answer": [
+      "efektywne w otoczeniu zmiennym",
+      "prestiż wynika z kompetencji"
+    ]
+  },
+  {
+    "question": "W fazie rozwoju firmy - adhockracji dominują:",
+    "options": [
+      "struktury projektowe",
+      "struktury macierzowe",
+      "struktury funkcjonalne"
+    ],
+    "correct_answer": [
+      "struktury projektowe"
+    ]
+  },
+  {
+    "question": "Spółka z ograniczoną odpowiedzialnością-cechy:",
+    "options": [
+      "odpowiedzialność majątkiem osobistym za zobowiązania",
+      "wartość kapitału nie może być niższa niż 5 tys. zł",
+      "jest spółką kapitałową"
+    ],
+    "correct_answer": [
+      "wartość kapitału nie może być niższa niż 5 tys. zł",
+      "jest spółką kapitałową"
+    ]
+  },
+  {
+    "question": "Efekt synergiczny to :",
+    "options": [
+      "szczególny przypadek efektu skali",
+      "jest następstwem współdziałania elementów",
+      "można go wyrazić 1+1=2"
+    ],
+    "correct_answer": [
+      "jest następstwem współdziałania elementów"
+    ]
+  },
+  {
+    "question": "Korzyści CSR:",
+    "options": [
+      "łatwiejszy dostęp do mediów",
+      "efekt synergii",
+      "natychmiastowe efekty"
+    ],
+    "correct_answer": []
+  },
+  {
+    "question": "Interesariusze wewnętrzni to:",
+    "options": [
+      "pracownicy",
+      "dostawcy",
+      "akcjonariusze"
+    ],
+    "correct_answer": [
+      "pracownicy"
+    ]
+  },
+  {
+    "question": "Fazy rozwoju przedsiębiorstwa wg Greinera:",
+    "options": [
+      "wzrost przez kreatywność",
+      "wzrost przez biurokrację",
+      "wzrost przez delegowanie uprawnień"
+    ],
+    "correct_answer": [
+      "wzrost przez kreatywność"
+    ]
+  },
+  {
+    "question": "Zewnętrzne formy CSR:",
+    "options": [
+      "pomoc pracownikom w spłacaniu wierzytelności",
+      "oszczędność energii",
+      "uczciwe zasady handlowe"
+    ],
+    "correct_answer": [
+      "oszczędność energii",
+      "uczciwe zasady handlowe"
+    ]
+  },
+  {
+    "question": "W modelu organizacji M. Portera obejmuje",
+    "options": [
+      "strategię",
+      "poziom operacyjny",
+      "strukturę"
+    ],
+    "correct_answer": []
+  },
+  {
+    "question": "Cechy organizacji społecznych opisywanych jako system:",
+    "options": [
+      "są systemami ustrukturyzowanymi",
+      "są systemami hierarchicznymi",
+      "są systemami zamkniętymi"
+    ],
+    "correct_answer": []
+  },
+  {
+    "question": "Analiza 5 sił M. Portera obejmuje",
+    "options": [
+      "analizę siły przetargowej interesariuszy",
+      "analizę grup strategicznych",
+      "analizę rywalizacji między przedsiębiorstwami sektora"
+    ],
+    "correct_answer": [
+      "analizę rywalizacji między przedsiębiorstwami sektora"
+    ]
+  },
+  {
+    "question": "Granice pomiędzy pionami organizacyjnymi",
+    "options": [
+      "są podstawą wyróżnienia szczebli hierarchicznych",
+      "określają granicę aktywności w łańcuchu tworzenia wartości",
+      "rozgraniczają funkcje i obszary działań"
+    ],
+    "correct_answer": [
+      "rozgraniczają funkcje i obszary działań"
+    ]
+  },
+  {
+    "question": "Procesy pomocnicze:",
+    "options": [
+      "są źródłem działań bezużytecznych",
+      "mogą podlegać outsourcingowi",
+      "nie mają strategicznego znaczenia dla przedsiębiorstwa"
+    ],
+    "correct_answer": [
+      "mogą podlegać outsourcingowi"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "odpowiedzialność handlowa",
+      "odpowiedzialność cywilna",
+      "odpowiedzialność ekonomiczna"
+    ],
+    "correct_answer": [
+      "odpowiedzialność ekonomiczna"
+    ]
+  },
+  {
+    "question": "Cechy organizacji organicznych:",
+    "options": [
+      "wysoka specjalizacja",
+      "efektywne w otoczeniu zmiennym",
+      "prestiż wynika z kompetencji"
+    ],
+    "correct_answer": [
+      "efektywne w otoczeniu zmiennym",
+      "prestiż wynika z kompetencji"
+    ]
+  },
+  {
+    "question": "W fazie rozwoju firmy - biurokracja profesjonalna - dominują:",
+    "options": [
+      "struktury projektowe",
+      "struktury macierzowe",
+      "struktury funkcjonalne"
+    ],
+    "correct_answer": [
+      "struktury funkcjonalne"
+    ]
+  },
+  {
+    "question": "Wady organizacji sieciowej:",
+    "options": [
+      "trudności z koordynacją",
+      "dążenie do dominacji w sieci jednostek silniejszych",
+      "niebezpieczeństwo obniżenia kosztów sieci"
+    ],
+    "correct_answer": [
+      "trudności z koordynacją",
+      "dążenie do dominacji w sieci jednostek silniejszych"
+    ]
+  },
+  {
+    "question": "Efekt synergiczny to:",
+    "options": [
+      "szczególny przypadek efektu skali",
+      "jest następstwem współdziałania elementów",
+      "można go wyrazić wzorem 1+1=2"
+    ],
+    "correct_answer": [
+      "jest następstwem współdziałania elementów"
+    ]
+  },
+  {
+    "question": "Korzyści CSR:",
+    "options": [
+      "łatwiejszy dostęp do mediów",
+      "efekt synergii",
+      "natychmiastowe efekty"
+    ],
+    "correct_answer": []
+  },
+  {
+    "question": "Interesariusze wewnętrzni to:",
+    "options": [
+      "pracownicy",
+      "akcjonariusze",
+      "klienci"
+    ],
+    "correct_answer": [
+      "pracownicy",
+      "akcjonariusze"
+    ]
+  },
+  {
+    "question": "Fazy rozwoju przedsiębiorstwa wg Greinera:",
+    "options": [
+      "wzrost przez kreatywność",
+      "wzrost przez biurokrację",
+      "wzrost przez delegowanie uprawnień"
+    ],
+    "correct_answer": [
+      "wzrost przez kreatywność",
+      "wzrost przez delegowanie uprawnień"
+    ]
+  },
+  {
+    "question": "Zewnętrzne formy CSR",
+    "options": [
+      "pomoc pracownikom w spłacaniu wierzytelności",
+      "oszczędność energii",
+      "uczciwe zasady handlowe"
+    ],
+    "correct_answer": [
+      "oszczędność energii",
+      "uczciwe zasady handlowe"
+    ]
+  },
+  {
+    "question": "W modelu organizacji Mitzberga wyróznia się:",
+    "options": [
+      "Jednostki pomocnicze",
+      "Jednostki podstawowe",
+      "Technostrukturę"
+    ],
+    "correct_answer": [
+      "Jednostki pomocnicze",
+      "Technostrukturę"
+    ]
+  },
+  {
+    "question": "Cechy organizacji społecznej opisywanej jako system:",
+    "options": [
+      "Są systemami zamkniętymi",
+      "Cechują się ekwifinalnością",
+      "Występuje w nich człon wykonawczy nazywany systemem sterującym"
+    ],
+    "correct_answer": [
+      "Cechują się ekwifinalnością"
+    ]
+  },
+  {
+    "question": "Zalety outsourcingu:",
+    "options": [
+      "Koncentracja na kluczowych kompetencjach",
+      "Reedukacja kosztów",
+      "Rozmycie odpowiedzialności"
+    ],
+    "correct_answer": [
+      "Koncentracja na kluczowych kompetencjach",
+      "Reedukacja kosztów"
+    ]
+  },
+  {
+    "question": "Przedsiębiorstwo małe – cechy:",
+    "options": [
+      "Zatrudnienie do 10 pracowników",
+      "Obroty do 10 mln euro",
+      "Suma bilansowa do 40 mln euro"
+    ],
+    "correct_answer": [
+      "Obroty do 10 mln euro"
+    ]
+  },
+  {
+    "question": "Procesy pomocnicze:",
+    "options": [
+      "Są źródłem działań bezużytecznych",
+      "Mogą podlegać outsourcingowi",
+      "Mają strategiczne znaczenie dla przedsiębiorstwa"
+    ],
+    "correct_answer": [
+      "Mogą podlegać outsourcingowi"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "Odpowiedzialność filantropijna",
+      "Odpowiedzialność cywilna",
+      "Odpowiedzialność ekonomiczna"
+    ],
+    "correct_answer": [
+      "Odpowiedzialność filantropijna",
+      "Odpowiedzialność ekonomiczna"
+    ]
+  },
+  {
+    "question": "Cechy organizacji organicznych:",
+    "options": [
+      "Autorytet stanowiska",
+      "Efektywne w otoczeniu zmiennym",
+      "Sieciowa struktura komunikacji"
+    ],
+    "correct_answer": [
+      "Efektywne w otoczeniu zmiennym",
+      "Sieciowa struktura komunikacji"
+    ]
+  },
+  {
+    "question": "Formy przedsiębiorstwa wirtualnego:",
+    "options": [
+      "Konsorcja",
+      "Alianse strategiczne",
+      "Struktury tensorowe"
+    ],
+    "correct_answer": [
+      "Konsorcja",
+      "Alianse strategiczne"
+    ]
+  },
+  {
+    "question": "Spółka z ograniczoną odpowiedzialnością:",
+    "options": [
+      "Brak określonych wymagań odnośnie sumy komandytowej",
+      "Wartość kapitału nie może być niższa niż 5 tys",
+      "Jest spółką osobistą"
+    ],
+    "correct_answer": [
+      "Wartość kapitału nie może być niższa niż 5 tys"
+    ]
+  },
+  {
+    "question": "Wady organizacji sieciowej:",
+    "options": [
+      "Trudności z koordynacją",
+      "Dążenie do dominacji w sieci jednostek silniejszych",
+      "Niebezpieczeństwo wzrostu kosztów transakcyjnych"
+    ],
+    "correct_answer": [
+      "Trudności z koordynacją",
+      "Dążenie do dominacji w sieci jednostek silniejszych",
+      "Niebezpieczeństwo wzrostu kosztów transakcyjnych"
+    ]
+  },
+  {
+    "question": "Rodzaje aliansów strategicznych:",
+    "options": [
+      "Alianse komparatywne",
+      "Alianse integracyjne",
+      "Alianse addytywne"
+    ],
+    "correct_answer": [
+      "Alianse integracyjne",
+      "Alianse addytywne"
+    ]
+  },
+  {
+    "question": "Interesariusze wewnętrzni to:",
+    "options": [
+      "Pracownicy",
+      "Klienci",
+      "Akcjonariusze"
+    ],
+    "correct_answer": [
+      "Pracownicy"
+    ]
+  },
+  {
+    "question": "Fazy rozwoju przedsiębiorstwa wg Greinera:",
+    "options": [
+      "Wzrost przez kreatywność",
+      "Kryzys delegowania uprawnień",
+      "Wzrost przez koordynację"
+    ],
+    "correct_answer": [
+      "Wzrost przez kreatywność",
+      "Wzrost przez koordynację"
+    ]
+  },
+  {
+    "question": "Zewnętrzne formy CSR:",
+    "options": [
+      "Pomoc pracownikom w spłaceniu wierzytelności",
+      "Redukcja zanieczyszczeń",
+      "Standardy reklamy"
+    ],
+    "correct_answer": [
+      "Redukcja zanieczyszczeń",
+      "Standardy reklamy"
+    ]
+  },
+  {
+    "question": "Fazy rozwoju przedsiębiorstwa wg Greinera:",
+    "options": [
+      "Kryzys autonomii",
+      "Kryzys współdziałania",
+      "Wzrost przez formalizację"
+    ],
+    "correct_answer": [
+      "Wzrost przez formalizację"
+    ]
+  },
+  {
+    "question": "Spółka komandytowa:",
+    "options": [
+      "Jest spółką kapitałową",
+      "Działa tylko w zakresie wykonywania zawodu wspólników",
+      "Za zobowiązania spółki bez ograniczeń odpowiada komandytariusz"
+    ],
+    "correct_answer": [
+      "Działa tylko w zakresie wykonywania zawodu wspólników"
+    ]
+  },
+  {
+    "question": "Efekt organizacyjny to:",
+    "options": [
+      "Szczególny przypadek efektu synergicznego",
+      "Jest następstwem współdziałania elementów",
+      "Można go wyrazić wzorem 1+1=2"
+    ],
+    "correct_answer": [
+      "Szczególny przypadek efektu synergicznego",
+      "Jest następstwem współdziałania elementów"
+    ]
+  },
+  {
+    "question": "W outsourcingu kontraktowym część działalności przekazywana jest:",
+    "options": [
+      "Innemu podmiotowi wewnętrznemu (spółce-córce)",
+      "Innemu podmiotowi zewnętrznemu",
+      "Firmie outsourcingowej"
+    ],
+    "correct_answer": [
+      "Innemu podmiotowi zewnętrznemu",
+      "Firmie outsourcingowej"
+    ]
+  },
+  {
+    "question": "Wewnętrzne formy CSR:",
+    "options": [
+      "Odprawy dla przychodzących",
+      "Sponsorowanie lokalnych przedsięwzięć",
+      "Zwiększanie satysfakcji pracowników"
+    ],
+    "correct_answer": [
+      "Zwiększanie satysfakcji pracowników"
+    ]
+  },
+  {
+    "question": "Interesariusze zewnętrzni to:",
+    "options": [
+      "Dostawcy",
+      "Media",
+      "Rada nadzorcza"
+    ],
+    "correct_answer": [
+      "Dostawcy",
+      "Media"
+    ]
+  },
+  {
+    "question": "Cechy organizacji mechanistycznej:",
+    "options": [
+      "Pionowe interakcje",
+      "Wysoki poziom formalizacji",
+      "Efektywne w otoczeniu stabilnym"
+    ],
+    "correct_answer": [
+      "Pionowe interakcje",
+      "Wysoki poziom formalizacji",
+      "Efektywne w otoczeniu stabilnym"
+    ]
+  },
+  {
+    "question": "Zalety organizacji sieciowej:",
+    "options": [
+      "Dualizm kierowania",
+      "Zwiększenie dostępności do zasobów",
+      "Duża stabilność"
+    ],
+    "correct_answer": [
+      "Zwiększenie dostępności do zasobów"
+    ]
+  },
+  {
+    "question": "Procesy podstawowe",
+    "options": [
+      "Są źródłem przewagi konkurencyjnej",
+      "Powinny podlegać outsourcingowi",
+      "Są obojętne z punktu widzenia klienta"
+    ],
+    "correct_answer": [
+      "Są źródłem przewagi konkurencyjnej"
+    ]
+  },
+  {
+    "question": "Cechy organizacji wirtualnej:",
+    "options": [
+      "Technologia komputerowa i telekomunikacyjna",
+      "Wzajemne zaufanie",
+      "Granice wertykalne"
+    ],
+    "correct_answer": [
+      "Technologia komputerowa i telekomunikacyjna",
+      "Wzajemne zaufanie"
+    ]
+  },
+  {
+    "question": "Przedsiębiorstwo duże – cechy:",
+    "options": [
+      "Zatrudnienie powyżej 240 pracowników",
+      "Obroty powyżej 10 mln euro",
+      "Suma bilansowa powyżej 43 mln euro"
+    ],
+    "correct_answer": [
+      "Suma bilansowa powyżej 43 mln euro"
+    ]
+  },
+  {
+    "question": "Model 7S Petersa i Watermana obejmuje:",
+    "options": [
+      "Jednostki pomocnicze",
+      "Strukturę",
+      "Style"
+    ],
+    "correct_answer": [
+      "Strukturę",
+      "Style"
+    ]
+  },
+  {
+    "question": "Rodzaje aliansów strategicznych:",
+    "options": [
+      "Alianse addytywne",
+      "Alianse holdingowe",
+      "Alianse komplementarne"
+    ],
+    "correct_answer": [
+      "Alianse addytywne",
+      "Alianse komplementarne"
+    ]
+  },
+  {
+    "question": "Poziomy odpowiedzialności w modelu Carrolla:",
+    "options": [
+      "Odpowiedzialność prawna",
+      "Odpowiedzialność etyczna",
+      "Odpowiedzialność filantropijna"
+    ],
+    "correct_answer": [
+      "Odpowiedzialność prawna",
+      "Odpowiedzialność etyczna",
+      "Odpowiedzialność filantropijna"
+    ]
+  }
+]
