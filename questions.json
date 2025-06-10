@@ -76,7 +76,7 @@
       "sieciowa struktura komunikacji"
     ],
     "correct_answer": [
-      "efektywne w otoczeniu zmiennym"
+      "efektywne w otoczeniu zmiennym", "sieciowa struktura komunikacji"
     ]
   },
   {
@@ -628,7 +628,7 @@
       "są systemami zamkniętymi"
     ],
     "correct_answer": [
-      "cechują się ekwifinalnością"
+      "cechują się ekwifinalnością", "są systemami ustrukturyzowanymi"
     ]
   },
   {
@@ -662,7 +662,7 @@
       "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ],
     "correct_answer": [
-      "mogą podlegać outsourcingowi"
+      "mogą podlegać outsourcingowi", "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ]
   },
   {
@@ -696,7 +696,7 @@
       "struktury funkcjonalne"
     ],
     "correct_answer": [
-      "struktury projektowe"
+      "struktury projektowe", "struktury macierzowe"
     ]
   },
   {
@@ -707,8 +707,8 @@
       "jest spółką kapitałową"
     ],
     "correct_answer": [
-      "wartość kapitału nie może być niższa niż 5 tys. zł",
-      "jest spółką kapitałową"
+      "wartość kapitału nie może być niższa niż 5 tys. zł"
+      
     ]
   },
   {
@@ -719,7 +719,7 @@
       "można go wyrazić 1+1=2"
     ],
     "correct_answer": [
-      "jest następstwem współdziałania elementów"
+      "jest następstwem współdziałania elementów", "szczególny przypadek efektu skali",
     ]
   },
   {
@@ -729,7 +729,7 @@
       "efekt synergii",
       "natychmiastowe efekty"
     ],
-    "correct_answer": []
+    "correct_answer": ["łatwiejszy dostęp do mediów"]
   },
   {
     "question": "Interesariusze wewnętrzni to:",
@@ -813,7 +813,7 @@
       "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ],
     "correct_answer": [
-      "mogą podlegać outsourcingowi"
+      "mogą podlegać outsourcingowi", "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ]
   },
   {
@@ -847,7 +847,7 @@
       "struktury funkcjonalne"
     ],
     "correct_answer": [
-      "struktury funkcjonalne"
+      "struktury projektowe"
     ]
   },
   {
@@ -870,7 +870,7 @@
       "można go wyrazić wzorem 1+1=2"
     ],
     "correct_answer": [
-      "jest następstwem współdziałania elementów"
+      "jest następstwem współdziałania elementów", "szczególny przypadek efektu skali"
     ]
   },
   {
@@ -1055,7 +1055,7 @@
       "Akcjonariusze"
     ],
     "correct_answer": [
-      "Pracownicy"
+      "Pracownicy", "Akcjonariusze"
     ]
   },
   {
@@ -1066,8 +1066,8 @@
       "Wzrost przez koordynację"
     ],
     "correct_answer": [
-      "Wzrost przez kreatywność",
-      "Wzrost przez koordynację"
+      "Wzrost przez kreatywność", "Kryzys delegowania uprawnień"
+      
     ]
   },
   {
