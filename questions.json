@@ -1,3 +1,8 @@
+Z przyjemnością pomogę poprawić ten JSON. Przejrzałem każdą pozycję i skorygowałem błędy, głównie w polach `correct_answer` oraz w drobnych literówkach, aby zapewnić spójność i poprawność danych.
+
+Oto poprawiony plik JSON:
+
+```json
 [
   {
     "question": "W modelu organizacji Mintzberga wyróżnia się:",
@@ -15,11 +20,11 @@
     "question": "Cechy organizacji społecznej opisywanej jako system:",
     "options": [
       "są systemami zamkniętymi",
-      "cechują się ekwifnalnością",
+      "cechują się ekwifinalnością",
       "występuje w nich człon wykonawczy nazywany systemem sterującym"
     ],
     "correct_answer": [
-      "cechują się ekwifnalnością"
+      "cechują się ekwifinalnością"
     ]
   },
   {
@@ -76,7 +81,8 @@
       "sieciowa struktura komunikacji"
     ],
     "correct_answer": [
-      "efektywne w otoczeniu zmiennym", "sieciowa struktura komunikacji"
+      "efektywne w otoczeniu zmiennym",
+      "sieciowa struktura komunikacji"
     ]
   },
   {
@@ -135,7 +141,8 @@
       "akcjonariusze"
     ],
     "correct_answer": [
-      "pracownicy"
+      "pracownicy",
+      "akcjonariusze"
     ]
   },
   {
@@ -159,7 +166,8 @@
       "standardy reklam"
     ],
     "correct_answer": [
-      "redukcja zanieczyszczeń"
+      "redukcja zanieczyszczeń",
+      "standardy reklam"
     ]
   },
   {
@@ -167,21 +175,23 @@
     "options": [
       "kryzys autonomii",
       "kryzys współdziałania",
-      "kryzys przez formalizację"
+      "wzrost przez formalizację"
     ],
     "correct_answer": [
-      "kryzys autonomii"
+      "kryzys autonomii",
+      "kryzys współdziałania",
+      "wzrost przez formalizację"
     ]
   },
   {
     "question": "Spółka komandytowa:",
     "options": [
       "jest spółką kapitałową",
-      "działa tylko w zakresie wykonywania",
+      "działa tylko w zakresie wykonywania zawodu wspólników",
       "za zobowiązania spółki bez ograniczeń odpowiada komandytariusz"
     ],
     "correct_answer": [
-      "działa tylko w zakresie wykonywania"
+      "działa tylko w zakresie wykonywania zawodu wspólników"
     ]
   },
   {
@@ -279,7 +289,7 @@
     ]
   },
   {
-    "question": "Przedsiębiorstwo duże - cechy",
+    "question": "Przedsiębiorstwo duże - cechy:",
     "options": [
       "zatrudnia powyżej 240 pracowników",
       "obroty powyżej 10 mln euro",
@@ -339,7 +349,7 @@
     ]
   },
   {
-    "question": "Dyscypliny wspomagające organizacyjne uczenie się – P. Senge",
+    "question": "Dyscypliny wspomagające organizacyjne uczenie się – P. Senge:",
     "options": [
       "Modele osobiste",
       "Zespołowe uczenie się",
@@ -362,7 +372,7 @@
     ]
   },
   {
-    "question": "Kapitał intelektualny obejmuje",
+    "question": "Kapitał intelektualny obejmuje:",
     "options": [
       "Kapitał strukturalny",
       "Kapitał relacyjny",
@@ -398,7 +408,7 @@
     ]
   },
   {
-    "question": "Elementy zarządzania wiedzą",
+    "question": "Elementy zarządzania wiedzą:",
     "options": [
       "Zachowanie wiedzy",
       "Posługiwanie się wiedzą",
@@ -411,9 +421,9 @@
     ]
   },
   {
-    "question": "Organizacja o strukturze koniczyny- echo pracowników kontraktowych:",
+    "question": "Organizacja o strukturze koniczyny - cecha pracowników kontraktowych:",
     "options": [
-      "Silne więzi w z organizacją",
+      "Silne więzi z organizacją",
       "Wynagrodzenie w formie honorarium",
       "Kluczowe znaczenie dla organizacji"
     ],
@@ -435,7 +445,7 @@
     ]
   },
   {
-    "question": "Organizacja w ujęciu sytuacyjnym obejmuje",
+    "question": "Organizacja w ujęciu sytuacyjnym obejmuje:",
     "options": [
       "Subsystem strategiczny",
       "Subsystem celów i wartości",
@@ -466,11 +476,12 @@
       "Standardy reklamy"
     ],
     "correct_answer": [
-      "Redukcja zanieczyszczeń"
+      "Redukcja zanieczyszczeń",
+      "Standardy reklamy"
     ]
   },
   {
-    "question": "Kapitał intelektualny obejmuje",
+    "question": "Kapitał intelektualny obejmuje:",
     "options": [
       "Kapitał korporacyjny",
       "Kapitał ludzki",
@@ -482,7 +493,7 @@
     ]
   },
   {
-    "question": "Organizacja o strukturze koniczyny- cechy elastycznej siły roboczej",
+    "question": "Organizacja o strukturze koniczyny - cechy elastycznej siły roboczej:",
     "options": [
       "Wysokie wynagrodzenie",
       "Silne więzi z organizacją",
@@ -493,7 +504,7 @@
     ]
   },
   {
-    "question": "Cechy organizacji mechanistycznej",
+    "question": "Cechy organizacji mechanistycznej:",
     "options": [
       "Pionowe interakcje",
       "Wysoki stopień formalizacji",
@@ -540,7 +551,7 @@
     ]
   },
   {
-    "question": "Zaleta organizacji sieciowej",
+    "question": "Zaleta organizacji sieciowej:",
     "options": [
       "Dualizm kierowania ??",
       "Zwiększanie dostępności zasobów",
@@ -551,14 +562,16 @@
     ]
   },
   {
-    "question": "Formy powiązań w organizacji sieciowej",
+    "question": "Formy powiązań w organizacji sieciowej:",
     "options": [
       "Służbowe",
       "Informatyczne",
       "Ekonomiczne"
     ],
     "correct_answer": [
-      "Służbowe"
+      "Służbowe",
+      "Informatyczne",
+      "Ekonomiczne"
     ]
   },
   {
@@ -570,11 +583,12 @@
     ],
     "correct_answer": [
       "Lokalizowanie wiedzy",
+      "Kumulowanie wiedzy",
       "Zachowywanie wiedzy"
     ]
   },
   {
-    "question": "Założenia koncepcji sytuacyjnej",
+    "question": "Założenia koncepcji sytuacyjnej:",
     "options": [
       "Technokratyzm",
       "Neoliberalizm",
@@ -593,6 +607,7 @@
     ],
     "correct_answer": [
       "Myślenie systemowe",
+      "Mistrzostwo myślowe",
       "Wspólna wizja przyszłości"
     ]
   },
@@ -610,7 +625,7 @@
     ]
   },
   {
-    "question": "W modelu organizacji Mintzberga wyróżnia się",
+    "question": "W modelu organizacji Mintzberga wyróżnia się:",
     "options": [
       "style",
       "wartości",
@@ -628,11 +643,12 @@
       "są systemami zamkniętymi"
     ],
     "correct_answer": [
-      "cechują się ekwifinalnością", "są systemami ustrukturyzowanymi"
+      "cechują się ekwifinalnością",
+      "są systemami ustrukturyzowanymi"
     ]
   },
   {
-    "question": "Analiza 5 sił Portera obejmuje",
+    "question": "Analiza 5 sił Portera obejmuje:",
     "options": [
       "analizę siły przetargowej odbiorców",
       "analizę grup strategicznych",
@@ -644,7 +660,7 @@
     ]
   },
   {
-    "question": "Granicę pomiędzy pionami organizacyjnymi",
+    "question": "Granice pomiędzy pionami organizacyjnymi:",
     "options": [
       "są podstawą wyróżnienia szczebli hierarchicznych",
       "określają granicę aktywności w łańcuchu tworzenia wartości",
@@ -655,14 +671,15 @@
     ]
   },
   {
-    "question": "Procesy pomocnicze",
+    "question": "Procesy pomocnicze:",
     "options": [
       "są źródłem działań bezużytecznych",
       "mogą podlegać outsourcingowi",
       "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ],
     "correct_answer": [
-      "mogą podlegać outsourcingowi", "nie mają strategicznego znaczenia dla przedsiębiorstwa"
+      "mogą podlegać outsourcingowi",
+      "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ]
   },
   {
@@ -689,26 +706,27 @@
     ]
   },
   {
-    "question": "W fazie rozwoju firmy - adhockracji dominują:",
+    "question": "W fazie rozwoju firmy - adhokracji dominują:",
     "options": [
       "struktury projektowe",
       "struktury macierzowe",
       "struktury funkcjonalne"
     ],
     "correct_answer": [
-      "struktury projektowe", "struktury macierzowe"
+      "struktury projektowe",
+      "struktury macierzowe"
     ]
   },
   {
-    "question": "Spółka z ograniczoną odpowiedzialnością-cechy:",
+    "question": "Spółka z ograniczoną odpowiedzialnością - cechy:",
     "options": [
       "odpowiedzialność majątkiem osobistym za zobowiązania",
       "wartość kapitału nie może być niższa niż 5 tys. zł",
       "jest spółką kapitałową"
     ],
     "correct_answer": [
-      "wartość kapitału nie może być niższa niż 5 tys. zł"
-      
+      "wartość kapitału nie może być niższa niż 5 tys. zł",
+      "jest spółką kapitałową"
     ]
   },
   {
@@ -719,7 +737,8 @@
       "można go wyrazić 1+1=2"
     ],
     "correct_answer": [
-      "jest następstwem współdziałania elementów", "szczególny przypadek efektu skali"
+      "jest następstwem współdziałania elementów",
+      "szczególny przypadek efektu skali"
     ]
   },
   {
@@ -729,7 +748,10 @@
       "efekt synergii",
       "natychmiastowe efekty"
     ],
-    "correct_answer": ["łatwiejszy dostęp do mediów"]
+    "correct_answer": [
+      "łatwiejszy dostęp do mediów",
+      "efekt synergii"
+    ]
   },
   {
     "question": "Interesariusze wewnętrzni to:",
@@ -739,7 +761,8 @@
       "akcjonariusze"
     ],
     "correct_answer": [
-      "pracownicy"
+      "pracownicy",
+      "akcjonariusze"
     ]
   },
   {
@@ -750,7 +773,8 @@
       "wzrost przez delegowanie uprawnień"
     ],
     "correct_answer": [
-      "wzrost przez kreatywność"
+      "wzrost przez kreatywność",
+      "wzrost przez delegowanie uprawnień"
     ]
   },
   {
@@ -766,13 +790,16 @@
     ]
   },
   {
-    "question": "W modelu organizacji M. Portera obejmuje",
+    "question": "W modelu organizacji M. Portera obejmuje:",
     "options": [
       "strategię",
       "poziom operacyjny",
       "strukturę"
     ],
-    "correct_answer": []
+    "correct_answer": [
+      "strategię",
+      "strukturę"
+    ]
   },
   {
     "question": "Cechy organizacji społecznych opisywanych jako system:",
@@ -781,21 +808,25 @@
       "są systemami hierarchicznymi",
       "są systemami zamkniętymi"
     ],
-    "correct_answer": []
+    "correct_answer": [
+      "są systemami ustrukturyzowanymi",
+      "są systemami hierarchicznymi"
+    ]
   },
   {
-    "question": "Analiza 5 sił M. Portera obejmuje",
+    "question": "Analiza 5 sił M. Portera obejmuje:",
     "options": [
       "analizę siły przetargowej interesariuszy",
       "analizę grup strategicznych",
       "analizę rywalizacji między przedsiębiorstwami sektora"
     ],
     "correct_answer": [
+      "analizę siły przetargowej interesariuszy",
       "analizę rywalizacji między przedsiębiorstwami sektora"
     ]
   },
   {
-    "question": "Granice pomiędzy pionami organizacyjnymi",
+    "question": "Granice pomiędzy pionami organizacyjnymi:",
     "options": [
       "są podstawą wyróżnienia szczebli hierarchicznych",
       "określają granicę aktywności w łańcuchu tworzenia wartości",
@@ -813,7 +844,8 @@
       "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ],
     "correct_answer": [
-      "mogą podlegać outsourcingowi", "nie mają strategicznego znaczenia dla przedsiębiorstwa"
+      "mogą podlegać outsourcingowi",
+      "nie mają strategicznego znaczenia dla przedsiębiorstwa"
     ]
   },
   {
@@ -847,7 +879,8 @@
       "struktury funkcjonalne"
     ],
     "correct_answer": [
-      "struktury projektowe"
+      "struktury projektowe",
+      "struktury macierzowe"
     ]
   },
   {
@@ -870,7 +903,8 @@
       "można go wyrazić wzorem 1+1=2"
     ],
     "correct_answer": [
-      "jest następstwem współdziałania elementów", "szczególny przypadek efektu skali"
+      "jest następstwem współdziałania elementów",
+      "szczególny przypadek efektu skali"
     ]
   },
   {
@@ -880,7 +914,10 @@
       "efekt synergii",
       "natychmiastowe efekty"
     ],
-    "correct_answer": []
+    "correct_answer": [
+      "łatwiejszy dostęp do mediów",
+      "efekt synergii"
+    ]
   },
   {
     "question": "Interesariusze wewnętrzni to:",
@@ -907,7 +944,7 @@
     ]
   },
   {
-    "question": "Zewnętrzne formy CSR",
+    "question": "Zewnętrzne formy CSR:",
     "options": [
       "pomoc pracownikom w spłacaniu wierzytelności",
       "oszczędność energii",
@@ -919,7 +956,7 @@
     ]
   },
   {
-    "question": "W modelu organizacji Mitzberga wyróznia się:",
+    "question": "W modelu organizacji Mintzberga wyróżnia się:",
     "options": [
       "Jednostki pomocnicze",
       "Jednostki podstawowe",
@@ -1019,7 +1056,7 @@
       "Jest spółką osobistą"
     ],
     "correct_answer": [
-      "Wartość kapitału nie może być niższa niż 5 tys"
+      "Wartość kapitału nie może być niższa niż 5 tys."
     ]
   },
   {
@@ -1055,7 +1092,8 @@
       "Akcjonariusze"
     ],
     "correct_answer": [
-      "Pracownicy", "Akcjonariusze"
+      "Pracownicy",
+      "Akcjonariusze"
     ]
   },
   {
@@ -1066,8 +1104,9 @@
       "Wzrost przez koordynację"
     ],
     "correct_answer": [
-      "Wzrost przez kreatywność", "Kryzys delegowania uprawnień"
-      
+      "Wzrost przez kreatywność",
+      "Kryzys delegowania uprawnień",
+      "Wzrost przez koordynację"
     ]
   },
   {
@@ -1090,6 +1129,8 @@
       "Wzrost przez formalizację"
     ],
     "correct_answer": [
+      "Kryzys autonomii",
+      "Kryzys współdziałania",
       "Wzrost przez formalizację"
     ]
   },
@@ -1176,7 +1217,7 @@
     ]
   },
   {
-    "question": "Procesy podstawowe",
+    "question": "Procesy podstawowe:",
     "options": [
       "Są źródłem przewagi konkurencyjnej",
       "Powinny podlegać outsourcingowi",
@@ -1247,3 +1288,5 @@
     ]
   }
 ]
+```
+Mam nadzieję, że ten poprawiony JSON będzie przydatny!
