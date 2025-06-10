@@ -1,8 +1,3 @@
-Z przyjemnością pomogę poprawić ten JSON. Przejrzałem każdą pozycję i skorygowałem błędy, głównie w polach `correct_answer` oraz w drobnych literówkach, aby zapewnić spójność i poprawność danych.
-
-Oto poprawiony plik JSON:
-
-```json
 [
   {
     "question": "W modelu organizacji Mintzberga wyróżnia się:",
@@ -1288,5 +1283,4 @@ Oto poprawiony plik JSON:
     ]
   }
 ]
-```
-Mam nadzieję, że ten poprawiony JSON będzie przydatny!
+
